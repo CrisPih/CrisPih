@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**CrisPih/CrisPih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Mi sitio personal
+Soy una estudiante de Ingenieria en Ciencias de la computación apasionada por UX design y la interacción de humano a computador. He desarrollado diversas apps, como juegos, base de datos para un hotel, y apps para el uso de bienestar personal
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+## Información personal
+* Nombre: [Tu nombre]
+* Ocupación: [Tu ocupación]
+* Lugar de residencia: [Tu lugar de residencia]
+* Sitio web: [Tu sitio web]
+## Proyectos
+* [Lista de tus proyectos]
+## Intereses
+* [Lista de tus intereses]
