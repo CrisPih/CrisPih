@@ -37,15 +37,6 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - Desarrollo de aplicaciones webs y móviles  
 - Bases de datos y sistemas distribuidos  
 
----
-
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=crispih" alt="crispih" />  
-  </a>  
-</p>  
-
-
 ## 🔧 Tecnologías y Herramientas
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -116,3 +107,11 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crispih&show_icons=true&locale=en&layout=compact" alt="crispih" />  
 </p>
+
+
+## 🏆 Logros de GitHub
+<p align="left">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">  
+    <img src="https://github-profile-trophy.vercel.app/?username=crispih" alt="crispih" />  
+  </a>  
+</p>  
