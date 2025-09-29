@@ -1,11 +1,9 @@
 # Repositorio Personal
 
 ## Cristina Pihuave
-**Estudiante de Ciencias de la Computación**  
+**´ Estudiante de Ciencias de la Computación ´**  
 Apasionada por el **UI/UX Design** y la **interacción humano-computador**.  
 He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.  
-
----
 
 ## 📌 Contenido
 - [Información personal](#información-personal)
@@ -14,14 +12,12 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - [Tecnologías](#-tecnologías)
 - [Estadísticas](#-github-stats)
 
----
 
 ## 👩‍💻 Información personal
 - **Nombre:** María Cristina Pihuave Gómez  
 - **Ocupación:** Estudiante y Desarrolladora  
 - **Ciudad:** Guayaquil  
 
----
 
 ## 🚀 Proyectos
 
@@ -34,7 +30,6 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 ### [Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)  
 🏨 Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
 
----
 
 ## 🎯 Intereses
 - Diseño de interfaces (**UI/UX**)  
@@ -50,7 +45,6 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
   </a>  
 </p>  
 
----
 
 ## 🔧 Tecnologías y Herramientas
 <p align="left"> 
