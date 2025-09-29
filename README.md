@@ -38,6 +38,8 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - Bases de datos y sistemas distribuidos  
 
 ## 🔧 Tecnologías y Herramientas
+-Herramientas que sé utilizar
+
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/> 
@@ -84,15 +86,11 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
   </a> 
 </p>  
 
----
 
 ## 📊 GitHub Stats  
 
