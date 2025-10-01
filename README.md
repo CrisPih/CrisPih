@@ -1,9 +1,11 @@
 # Repositorio Personal
 
-## Cristina Pihuave
+## ¡Hola soy Cristina Pihuave!
 **`Estudiante de Ciencias de la Computación`**  
 Apasionada por el **UI/UX Design** y la **interacción humano-computador**.  
-He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.  
+He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.
+
+![Animación](https://i.pinimg.com/originals/4d/e0/19/4de019b6c1fc6d68615e455dfc9ab951.gif)
 
 ## 📌 Contenido
 - [Información personal](#información-personal)
