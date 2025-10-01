@@ -10,11 +10,12 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 </p>
 
 ## 📌 Contenido
-- [Información personal](#información-personal)
-- [Proyectos](#proyectos)
-- [Intereses](#intereses)
-- [Tecnologías](#-tecnologías)
+- [Información personal](#-información-personal)
+- [Proyectos](#-proyectos)
+- [Intereses](#-intereses)
+- [Tecnologías](#-tecnologías-y-herramientas)
 - [Estadísticas](#-github-stats)
+- [Logros de GitHub](#-logros-de-github)
 
 
 ## 👩‍💻 Información personal
