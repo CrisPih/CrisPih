@@ -10,7 +10,7 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 </p>
 
 ## 📌 Contenido
-- [Información personal](#-información-personal)
+- [Informacion personal](#-informacion-personal)
 - [Proyectos](#-proyectos)
 - [Intereses](#-intereses)
 - [Habilidades](#-habilidades)
@@ -19,7 +19,7 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - [Logros de GitHub](#-logros-de-github)
 
 
-## 👩‍💻 Información personal
+## 👩‍💻 Informacion personal
 - **Nombre:** María Cristina Pihuave Gómez  
 - **Ocupación:** Estudiante y Desarrolladora  
 - **Ciudad:** Guayaquil  
