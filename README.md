@@ -13,8 +13,8 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - [Información personal](#-información-personal)
 - [Proyectos](#-proyectos)
 - [Intereses](#-intereses)
-- [Tecnologías](#-tecnologías-y-herramientas)
-- [Estadísticas](#-github-stats)
+- [Habilidades](#-habilidades)
+- [Estadísticas de Github](#-github-stats)
 - [Logros de GitHub](#-logros-de-github)
 
 
@@ -26,14 +26,14 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 
 ## 🚀 Proyectos
 
-### [PulseraApp](https://github.com/CrisPih/PulseraApp)  
-📱 Aplicación en **Flutter** y **Dart** conectada a una **ESP32** que simula una pulsera inteligente para registrar y mostrar en tiempo real los latidos del corazón.  
+### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)  
+  Aplicación en **Flutter** y **Dart** conectada a una **ESP32** que simula una pulsera inteligente para registrar y mostrar en tiempo real los latidos del corazón.  
 
-### [TicTacToe](https://github.com/Sebhvarg/TicTacToe)  
-🎮 Juego de tres en raya con **modo contra la máquina**, utilizando algoritmos para optimizar jugadas.  
+### [🎮 TicTacToe](https://github.com/Sebhvarg/TicTacToe)  
+  Juego de tres en raya con **modo contra la máquina**, utilizando algoritmos para optimizar jugadas.  
 
-### [Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)  
-🏨 Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
+### [🏨 Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)  
+  Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
 
 
 ## 🎯 Intereses
@@ -42,56 +42,33 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - Desarrollo de aplicaciones webs y móviles  
 - Bases de datos y sistemas distribuidos  
 
-## 🔧 Tecnologías y Herramientas
-- Poseo conocimientos de:
+## 🔧 Habilidades
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  </a> 
-</p>  
+### 💻 Lenguajes de Programación
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧱 Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📱 Desarrollo de Aplicaciones
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🎨 Diseño e Interfaz
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-ff69b4?style=for-the-badge&logo=adobe&logoColor=white)
+
+### ☁️ Plataformas y Herramientas
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📊 GitHub Stats  
