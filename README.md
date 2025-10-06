@@ -75,7 +75,7 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristina-pihuave-0ab060278" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Cristina%20Pihuave-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cristinapihuave810@gmail.com">
     <img src="https://img.shields.io/badge/Email-cristinapihuave810%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
