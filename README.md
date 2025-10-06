@@ -70,7 +70,7 @@ Juego de Tres en Raya con modo para un jugador contra la máquina, implementando
 
 ### [🏨 Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)
 Sistema de gestión de clientes y reservas para un hotel.  
-Incluye módulos de registro, consultas y facturación usando **bases de datos relacionales**.  
+Incluye módulos de registro, consultas y facturación usando bases de datos relacionales.  
 **Tecnologías utilizadas:** Python, MySQL, CSS.
 
 <h2 id="intereses">🔍 Intereses</h2>
