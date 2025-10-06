@@ -4,7 +4,7 @@
 **`Estudiante de Ciencias de la Computación`**  
 Apasionada por el **UI/UX Design** y la **interacción humano–computador**.  
 He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.  
-En este repositorio se refleja mi progreso en el desarrollo de software, diseño de interfaces y uso de tecnologías aprendidas durante mi formación universitaria.
+En este repositorio se refleja mi progreso en el desarrollo de software, diseño de interfaces y uso de tecnologías aprendidas durante mi formación universitaria en la ESPOL.
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/4d/e0/19/4de019b6c1fc6d68615e455dfc9ab951.gif" alt="Animación" width="300"/>
