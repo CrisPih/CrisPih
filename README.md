@@ -10,40 +10,39 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 </p>
 
 ## 📌 Contenido
-- [Informacion personal](#-informacion-personal)
-- [Proyectos](#-proyectos)
-- [Intereses](#-intereses)
-- [Habilidades](#-habilidades)
-- [Contactame](#-conctame)
-- [Estadísticas de Github](#-estadisticas-de-github)
-- [Logros de GitHub](#-logros-de-github)
+- [Información personal](#informacion-personal)
+- [Proyectos](#proyectos)
+- [Intereses](#intereses)
+- [Habilidades](#habilidades)
+- [Contáctame](#contactame)
+- [Estadísticas de GitHub](#estadisticas-de-github)
+- [Logros de GitHub](#logros-de-github)
 
+<h2 id="informacion-personal">👩‍💻 Información personal</h2>
 
-## 👩‍💻 Informacion personal
 - **Nombre:** María Cristina Pihuave Gómez  
 - **Ocupación:** Estudiante y Desarrolladora  
 - **Ciudad:** Guayaquil  
 
-
-## ⚙️ Proyectos
+<h2 id="proyectos">⚙️ Proyectos</h2>
 
 ### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)  
-  Aplicación en **Flutter** y **Dart** conectada a una **ESP32** que simula una pulsera inteligente para registrar y mostrar en tiempo real los latidos del corazón.  
+Aplicación en **Flutter** y **Dart** conectada a una **ESP32** que simula una pulsera inteligente para registrar y mostrar en tiempo real los latidos del corazón.  
 
 ### [🎮 TicTacToe](https://github.com/Sebhvarg/TicTacToe)  
-  Juego de tres en raya con **modo contra la máquina**, utilizando algoritmos para optimizar jugadas.  
+Juego de tres en raya con **modo contra la máquina**, utilizando algoritmos para optimizar jugadas.  
 
 ### [🏨 Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)  
-  Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
+Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
 
+<h2 id="intereses">🔍 Intereses</h2>
 
-## 🔍 Intereses
 - Diseño de interfaces (**UI/UX**)  
 - Inteligencia Artificial aplicada a la interacción humano-computador  
 - Desarrollo de aplicaciones webs y móviles  
 - Bases de datos y sistemas distribuidos  
 
-## 🔧 Habilidades
+<h2 id="habilidades">🔧 Habilidades</h2>
 
 ### 💻 Lenguajes de Programación
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -70,18 +69,18 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## ✉️ Contáctame
+<h2 id="contactame">✉️ Contáctame</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/cristina-pihuave-0ab060278" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cristinapihuave810@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-## 📊 Estadisticas de GitHub
+<h2 id="estadisticas-de-github">📊 Estadísticas de GitHub</h2>
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=crispih&show_icons=true&locale=en" alt="crispih" />  
@@ -95,10 +94,10 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crispih&show_icons=true&locale=en&layout=compact" alt="crispih" />  
 </p>
 
+<h2 id="logros-de-github">🏆 Logros de GitHub</h2>
 
-## 🏆 Logros de GitHub
 <p align="left">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
     <img src="https://github-profile-trophy.vercel.app/?username=crispih" alt="crispih" />  
   </a>  
-</p>  
+</p>
