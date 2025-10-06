@@ -1,4 +1,4 @@
-# 🌟 Proyecto 01: Repositorio del Desarrollador
+# Repositorio personal
 
 ## 👋 ¡Hola, soy Cristina Pihuave!
 **`Estudiante de Ciencias de la Computación`**  
