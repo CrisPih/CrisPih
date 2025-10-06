@@ -1,9 +1,10 @@
-# Repositorio Personal
+# 🌟 Proyecto 01: Repositorio del Desarrollador
 
-## ¡Hola, soy Cristina Pihuave!
+## 👋 ¡Hola, soy Cristina Pihuave!
 **`Estudiante de Ciencias de la Computación`**  
-Apasionada por el **UI/UX Design** y la **interacción humano-computador**.  
-He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.
+Apasionada por el **UI/UX Design** y la **interacción humano–computador**.  
+He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.  
+En este repositorio se refleja mi progreso en el desarrollo de software, diseño de interfaces y uso de tecnologías aprendidas durante mi formación universitaria.
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/4d/e0/19/4de019b6c1fc6d68615e455dfc9ab951.gif" alt="Animación" width="300"/>
@@ -11,9 +12,9 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 
 ## 📌 Contenido
 - [Información personal](#informacion-personal)
+- [Habilidades](#habilidades)
 - [Proyectos](#proyectos)
 - [Intereses](#intereses)
-- [Habilidades](#habilidades)
 - [Contáctame](#contactame)
 - [Estadísticas de GitHub](#estadisticas-de-github)
 - [Logros de GitHub](#logros-de-github)
@@ -22,27 +23,12 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 
 - **Nombre:** María Cristina Pihuave Gómez  
 - **Ocupación:** Estudiante y Desarrolladora  
-- **Ciudad:** Guayaquil  
+- **Ciudad:** Guayaquil, Ecuador  
+- **Enfoque principal:** Desarrollo de software y diseño de experiencias interactivas
 
-<h2 id="proyectos">⚙️ Proyectos</h2>
+<h2 id="habilidades">🧰 Habilidades</h2>
 
-### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)  
-Aplicación en **Flutter** y **Dart** conectada a una **ESP32** que simula una pulsera inteligente para registrar y mostrar en tiempo real los latidos del corazón.  
-
-### [🎮 TicTacToe](https://github.com/Sebhvarg/TicTacToe)  
-Juego de tres en raya con **modo contra la máquina**, utilizando algoritmos para optimizar jugadas.  
-
-### [🏨 Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)  
-Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
-
-<h2 id="intereses">🔍 Intereses</h2>
-
-- Diseño de interfaces (**UI/UX**)  
-- Inteligencia Artificial aplicada a la interacción humano-computador  
-- Desarrollo de aplicaciones webs y móviles  
-- Bases de datos y sistemas distribuidos  
-
-<h2 id="habilidades">🔧 Habilidades</h2>
+Durante mi formación académica universitaria he aprendido a usar diversas tecnologías, frameworks y lenguajes para desarrollar proyectos funcionales:
 
 ### 💻 Lenguajes de Programación
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,13 +38,13 @@ Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.
 
 ### 🗄️ Bases de Datos
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Desarrollo Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📱 Desarrollo de Aplicaciones
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 📱 Frameworks y Desarrollo de Aplicaciones
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -71,9 +57,33 @@ Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+<h2 id="proyectos">⚙️ Proyectos</h2>
+
+### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)
+Aplicación móvil creada con **Flutter** y **Dart**, conectada a una **ESP32** mediante comunicación Bluetooth.  
+Simula una **pulsera inteligente** capaz de registrar y mostrar en tiempo real los **latidos del corazón**.  
+**Tecnologías utilizadas:** Flutter, Dart, Arduino, ESP32, Bluetooth.
+
+### [🎮 TicTacToe](https://github.com/Sebhvarg/TicTacToe)
+Juego de **Tres en Raya** con modo para **un jugador contra la máquina**, implementando un **algoritmo de decisión** que optimiza jugadas.  
+**Tecnologías utilizadas:** Java, estructuras de datos, algoritmos de búsqueda.
+
+### [🏨 Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)
+Sistema de **gestión de clientes y reservas** para un hotel.  
+Incluye módulos de registro, consultas y facturación usando **bases de datos relacionales**.  
+**Tecnologías utilizadas:** Python, MySQL, CSS.
+
+<h2 id="intereses">🔍 Intereses</h2>
+
+- Diseño de interfaces y experiencia de usuario (**UI/UX**)  
+- Inteligencia Artificial aplicada a la interacción humano–computador  
+- Desarrollo de aplicaciones móviles y web  
+- Análisis y visualización de datos  
+- Aprendizaje continuo en tecnologías emergentes  
+
 <h2 id="contactame">✉️ Contáctame</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/cristina-pihuave-0ab060278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -85,21 +95,21 @@ Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.
 <h2 id="estadisticas-de-github">📊 Estadísticas de GitHub</h2>
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=crispih&show_icons=true&locale=en" alt="crispih" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=crispih&show_icons=true&theme=radical" alt="crispih" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crispih&" alt="crispih" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crispih&theme=radical" alt="crispih" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crispih&show_icons=true&locale=en&layout=compact" alt="crispih" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crispih&show_icons=true&locale=en&layout=compact&theme=radical" alt="crispih" />  
 </p>
 
 <h2 id="logros-de-github">🏆 Logros de GitHub</h2>
 
-<p align="left">  
+<p align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=crispih" alt="crispih" />  
+    <img src="https://github-profile-trophy.vercel.app/?username=crispih&theme=onedark" alt="crispih" />  
   </a>  
 </p>
