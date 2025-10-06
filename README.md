@@ -14,7 +14,8 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - [Proyectos](#-proyectos)
 - [Intereses](#-intereses)
 - [Habilidades](#-habilidades)
-- [Estadísticas de Github](#-github-stats)
+- [Contactame](#-conctame)
+- [Estadísticas de Github](#-estadisticas-de-github)
 - [Logros de GitHub](#-logros-de-github)
 
 
@@ -24,7 +25,7 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 - **Ciudad:** Guayaquil  
 
 
-## 🚀 Proyectos
+## ⚙️ Proyectos
 
 ### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)  
   Aplicación en **Flutter** y **Dart** conectada a una **ESP32** que simula una pulsera inteligente para registrar y mostrar en tiempo real los latidos del corazón.  
@@ -70,8 +71,18 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+## 📫 Contáctame
 
-## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristina-pihuave-0ab060278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Cristina%20Pihuave-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cristinapihuave810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cristinapihuave810%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## 📊 Estadisticas de GitHub
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=crispih&show_icons=true&locale=en" alt="crispih" />  
