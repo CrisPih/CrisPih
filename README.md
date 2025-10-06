@@ -2,7 +2,7 @@
 
 ## ¡Hola, soy Cristina Pihuave!
 **`Estudiante de Ciencias de la Computación`**  
-Apasionada por el **UI/UX Design** y la **interacción humano–computador**.  
+Apasionada por el UI/UX Design y la interacción humano–computador.  
 He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones enfocadas en el bienestar personal.  
 En este repositorio se refleja mi progreso en el desarrollo de software, diseño de interfaces y uso de tecnologías aprendidas durante mi formación universitaria en la ESPOL.
 
@@ -60,22 +60,22 @@ Durante mi formación académica universitaria he aprendido a usar diversas tecn
 <h2 id="proyectos">⚙️ Proyectos</h2>
 
 ### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)
-Aplicación móvil creada con **Flutter** y **Dart**, conectada a una **ESP32** mediante comunicación Bluetooth.  
-Simula una **pulsera inteligente** capaz de registrar y mostrar en tiempo real los **latidos del corazón**.  
+Aplicación móvil creada con Flutter y Dart, conectada a una ESP32 mediante comunicación Bluetooth.  
+Simula una pulsera inteligente capaz de registrar y mostrar en tiempo real los latidos del corazón.  
 **Tecnologías utilizadas:** Flutter, Dart, Arduino, ESP32, Bluetooth.
 
 ### [🎮 TicTacToe](https://github.com/Sebhvarg/TicTacToe)
-Juego de **Tres en Raya** con modo para **un jugador contra la máquina**, implementando un **algoritmo de decisión** que optimiza jugadas.  
+Juego de Tres en Raya con modo para un jugador contra la máquina, implementando un algoritmo de decisión que optimiza jugadas.  
 **Tecnologías utilizadas:** Java, estructuras de datos, algoritmos de búsqueda.
 
 ### [🏨 Hotel Puerto Cayo](https://github.com/gasaesco/HotelPuertoCayo)
-Sistema de **gestión de clientes y reservas** para un hotel.  
+Sistema de gestión de clientes y reservas para un hotel.  
 Incluye módulos de registro, consultas y facturación usando **bases de datos relacionales**.  
 **Tecnologías utilizadas:** Python, MySQL, CSS.
 
 <h2 id="intereses">🔍 Intereses</h2>
 
-- Diseño de interfaces y experiencia de usuario (**UI/UX**)  
+- Diseño de interfaces y experiencia de usuario (UI/UX)  
 - Inteligencia Artificial aplicada a la interacción humano–computador  
 - Desarrollo de aplicaciones móviles y web  
 - Análisis y visualización de datos  
