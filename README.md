@@ -37,7 +37,7 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
   Sistema de gestión de clientes y servicios de hotel mediante **base de datos**.  
 
 
-## 🎯 Intereses
+## 🔍 Intereses
 - Diseño de interfaces (**UI/UX**)  
 - Inteligencia Artificial aplicada a la interacción humano-computador  
 - Desarrollo de aplicaciones webs y móviles  
@@ -56,7 +56,6 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### 📱 Desarrollo de Aplicaciones
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -71,9 +70,9 @@ He desarrollado programas como juegos, sistemas de bases de datos y aplicaciones
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Contáctame
+## ✉️ Contáctame
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/cristina-pihuave-0ab060278" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
