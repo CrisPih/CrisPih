@@ -62,7 +62,7 @@ Durante mi formación académica universitaria he aprendido a usar diversas tecn
 ### [📱 PulseraApp](https://github.com/CrisPih/PulseraApp)
 Aplicación móvil creada con Flutter y Dart, conectada a una ESP32 mediante comunicación Bluetooth.  
 Simula una pulsera inteligente capaz de registrar y mostrar en tiempo real los latidos del corazón.  
-**Tecnologías utilizadas:** Flutter, Dart, Arduino, ESP32, Bluetooth.
+**Tecnologías utilizadas:** Flutter, Dart, Arduino, ESP32.
 
 ### [🎮 TicTacToe](https://github.com/Sebhvarg/TicTacToe)
 Juego de Tres en Raya con modo para un jugador contra la máquina, implementando un algoritmo de decisión que optimiza jugadas.  
