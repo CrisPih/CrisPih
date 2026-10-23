@@ -55,7 +55,6 @@ Durante mi formación académica universitaria he aprendido a usar diversas tecn
 
 ### ☁️ Plataformas y Herramientas
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <h2 id="proyectos">⚙️ Proyectos</h2>
