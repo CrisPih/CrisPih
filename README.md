@@ -31,8 +31,6 @@ En este repositorio se refleja mi progreso en el desarrollo de software, diseño
 Durante mi formación académica universitaria he aprendido a usar diversas tecnologías, frameworks y lenguajes para desarrollar proyectos funcionales:
 
 ### 💻 Lenguajes de Programación
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
